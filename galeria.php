@@ -15,7 +15,9 @@
 <body>
 <nav class="nav-extended purple lighten-3">
     <div class="nav-wrapper">
-      <a href="#" class="brand-logo center">Crorocine</a>
+      <div class="nav-header center">
+        <h1>Crorocine</a></h1>
+      </div>
       <a href="#" data-target="mobile-demo" class="sidenav-trigger"><i class="material-icons">menu</i></a>
       <ul id="nav-mobile" class="right hide-on-med-and-down">
         <li><a href="galeria.php">Galeria</a></li>
