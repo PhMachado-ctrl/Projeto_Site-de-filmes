@@ -15,14 +15,13 @@
 <body>
 <nav class="nav-extended purple lighten-3">
     <div class="nav-wrapper">
-      <div class="nav-header center">
-        <h1>Crorocine</a></h1>
-      </div>
-      <a href="#" data-target="mobile-demo" class="sidenav-trigger"><i class="material-icons">menu</i></a>
-      <ul id="nav-mobile" class="right hide-on-med-and-down">
+      <ul id="nav-mobile" class="right">
         <li><a href="galeria.php">Galeria</a></li>
         <li><a href="badges.html">Cadastrar</a></li>
       </ul>
+      <div class="nav-header center">
+        <h1>Crorocine</h1>
+      </div>
     </div>
     <div class="nav-content">
       <ul class="tabs tabs-transparent purple darken-1">
