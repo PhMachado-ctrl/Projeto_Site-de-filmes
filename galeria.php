@@ -39,7 +39,7 @@
     <div class="col s3">
       <div class="card hoverable">
         <div class="card-image">
-          <img src="https://www.themoviedb.org/t/p/original/q6725aR8Zs4IwGMXzZT8aC8lh41.jpg">
+          <img src="https://www.themoviedb.org/t/p/w300/q6725aR8Zs4IwGMXzZT8aC8lh41.jpg">
           <span class="card-title">Vingadores</span>
           <a class="btn-floating halfway-fab waves-effect waves-light red"><i class="material-icons">favorite_border</i></a>
         </div>
