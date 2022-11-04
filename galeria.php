@@ -44,7 +44,7 @@
           <a class="btn-floating halfway-fab waves-effect waves-light red"><i class="material-icons">favorite_border</i></a>
         </div>
         <div class="card-content">
-          <p><i class="material-icons">star</i></p>
+          <p><i class="material-icons">star </i>9,7</p>
           <p>I am a very simple card. I am good at containing small bits of information. I am convenient because I require little markup to use effectively.</p>
         </div>
       </div>
