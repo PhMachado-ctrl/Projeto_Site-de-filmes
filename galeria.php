@@ -44,11 +44,11 @@
         </div>
         <div class="card-content">
           <p class="valign-wrapper">
-            <i class="material-icons amber-text">star</i>  9,7
+            <i class="material-icons amber-text">star</i>  8,7
           </p>
           <span class="card-title">Vingadores</span>
           
-          <p>I am a very simple card. I am good at containing small bits of information. I am convenient because I require little markup to use effectively.</p>
+          <p>Após os eventos devastadores de "Vingadores: Guerra Infinita", o universo está em ruínas devido aos esforços do Titã Louco, Thanos. Com a ajuda de aliados remanescentes, os Vingadores devem se reunir mais uma vez a fim de desfazer as ações de Thanos e restaurar a ordem no universo de uma vez por todas, não importando as consequências.</p>
         </div>
       </div>
     </div>
