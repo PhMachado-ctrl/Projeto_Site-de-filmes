@@ -19,9 +19,9 @@
         <li><a href="galeria.php">Galeria</a></li>
         <li><a href="badges.html">Cadastrar</a></li>
       </ul>
-      <div class="nav-header center">
-        <h1>Crorocine</h1>
-      </div>
+    </div>
+    <div class="nav-header center">
+      <h1>Crorocine</h1>
     </div>
     <div class="nav-content">
       <ul class="tabs tabs-transparent purple darken-1">
@@ -31,6 +31,17 @@
       </ul>
     </div>
   </nav>
+
+  <div class="card">
+    <div class="card-image">
+      <img src="http://materializecss.com/images/sample-1.jpg">
+      <span class="card-title">Card Title</span>
+      <a class="btn-floating halfway-fab waves-effect waves-light red"><i class="material-icons">add</i></a>
+    </div>
+    <div class="card-content">
+      <p>I am a very simple card. I am good at containing small bits of information. I am convenient because I require little markup to use effectively.</p>
+    </div>
+  </div>
     
 </body>
 </html>
