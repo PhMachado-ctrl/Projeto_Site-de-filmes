@@ -37,7 +37,7 @@
 
   <div class="row">
     <div class="col s3">
-      <div class="card">
+      <div class="card hoverable">
         <div class="card-image">
           <img src="http://materializecss.com/images/sample-1.jpg">
           <span class="card-title">Vingadores</span>
