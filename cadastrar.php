@@ -1,7 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
-    <li class="tab"><a href="#test2">Assistidos</a></li>
-    <li class="tab disabled"><a href="#test3">Favoritos</a></li>
+<html lang="pt-br"> 
     <head>
         <meta charset="UTF-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -30,11 +28,13 @@
             <div class="nav-content">
             <ul class="tabs tabs-transparent purple darken-1">
                 <li class="tab"><a class="active" href="#test1">Todos</a></li>
+                <li class="tab"><a href="#test2">Assistidos</a></li>
+                <li class="tab disabled"><a href="#test3">Favoritos</a></li>
             </div>
         </nav>
 
         <div class="row">
-            <div class="col s6">
+            <div class="col s6 offset-s3">
                 <div class="card ">
                     <div class="card-content white-text">
                         <span class="card-title"></span>
