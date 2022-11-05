@@ -41,8 +41,8 @@
                         <p>I am a very simple card. I am good at containing small bits of information. I am convenient because I require little markup to use effectively.</p>
                     </div>
                     <div class="card-action">
-                        <a href="galeria.php">Cancelar</a>
-                        <a href="#">This is a link</a>
+                        <a class="btn" href="galeria.php">Cancelar</a>
+                        <a href="#" class="waves-effect waves-light btn">Button</a>
                     </div>
                 </div>
             </div>
