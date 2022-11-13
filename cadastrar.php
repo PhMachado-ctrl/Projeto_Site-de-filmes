@@ -64,10 +64,23 @@
                                 <input  id="nota" type="number" step=".1" min=0 max=10 class="validate"  require>
                                 <label for="nota">Nota</label>                       
                             </div>
-                        </div>   
-                </div>
-                
+                    </div>   
 
+
+                    <!-- Input capa -->
+                    <form action="#">
+                        <div class="file-field input-field">
+                            <div class="btn">
+                                <span>Capa</span>
+                                <input type="file">
+                            </div>
+                            <div class="file-path-wrapper">
+                                <input class="file-path validate" type="text">
+                            </div>
+                        </div>
+                    </form>
+
+                </div>
                 <div class="card-action">
                     <a class="waves-effect waves-light btn grey" href="galeria.php">Cancelar</a>
                     <a href="#" class="waves-effect waves-light btn purple">Confirmar</a>
