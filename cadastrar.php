@@ -38,7 +38,7 @@
                 <div class="card ">
                     <div class="card-content">
                         <span class="card-title">Cadastrar Filme</span>
-                        <input disabled value="I am not editable" id="disabled" type="text" class="validate">
+                        <input  id="disabled" type="text" class="validate">
                         <label for="disabled">Disabled</label>
                     </div>
                     <div class="card-action">
