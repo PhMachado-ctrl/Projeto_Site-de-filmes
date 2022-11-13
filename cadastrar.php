@@ -38,11 +38,12 @@
                 <div class="card ">
                     <div class="card-content">
                         <span class="card-title">Cadastrar Filme</span>
-                        <p>I am a very simple card. I am good at containing small bits of information. I am convenient because I require little markup to use effectively.</p>
+                        <input disabled value="I am not editable" id="disabled" type="text" class="validate">
+                        <label for="disabled">Disabled</label>
                     </div>
                     <div class="card-action">
-                        <a class="btn" href="galeria.php">Cancelar</a>
-                        <a href="#" class="waves-effect waves-light btn">Button</a>
+                        <a class="waves-effect waves-light btn grey" href="galeria.php">Cancelar</a>
+                        <a href="#" class="waves-effect waves-light btn purple">Confirmar</a>
                     </div>
                 </div>
             </div>
