@@ -38,25 +38,35 @@
                 <div class="card ">
                     <div class="card-content">
                         <span class="card-title">Cadastrar Filme</span>
-                            
+                        <!-- Input titulo -->    
                         <div class="row">
                             <div class="input-field col s12">
                                 <input  id="titulo" type="text" class="validate"require>
                                 <label for="titulo">Titulo do Filme</label>                       
                             </div>
-                        </div>    
-
-                    </div>
-                <div class="row">
-                    <form class="col s12">
+                        </div>   
+                        
+                        <!-- Input sinopse --> 
                         <div class="row">
-                            <div class="input-field col s12">
-                                <textarea id="sinopse" class="materialize-textarea"></textarea>
-                                <label for="sinopse">Sinopse</label>
+                        <form class="col s12">
+                            <div class="row">
+                                <div class="input-field col s12">
+                                    <textarea id="sinopse" class="materialize-textarea"></textarea>
+                                    <label for="sinopse">Sinopse</label>
+                                </div>
                             </div>
-                        </div>
-                    </form>
+                        </form>
+                    </div>
+
+                    <!-- Input nota --> 
+                    <div class="row">
+                            <div class="input-field col s4">
+                                <input  id="nota" type="number" class="validate"  require>
+                                <label for="nota">Nota</label>                       
+                            </div>
+                        </div>   
                 </div>
+                
 
                 <div class="card-action">
                     <a class="waves-effect waves-light btn grey" href="galeria.php">Cancelar</a>
