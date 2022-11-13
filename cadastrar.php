@@ -61,7 +61,7 @@
                     <!-- Input nota --> 
                     <div class="row">
                             <div class="input-field col s4">
-                                <input  id="nota" type="number" step=".1" class="validate"  require>
+                                <input  id="nota" type="number" step=".1" min=0 max=10 class="validate"  require>
                                 <label for="nota">Nota</label>                       
                             </div>
                         </div>   
