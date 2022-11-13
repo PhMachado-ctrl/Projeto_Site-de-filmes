@@ -38,8 +38,8 @@
                 <div class="card ">
                     <div class="card-content">
                         <span class="card-title">Cadastrar Filme</span>
-                        <input  id="disabled" type="text" class="validate">
-                        <label for="disabled">Disabled</label>
+                        <input  id="titulo" type="text" class="validate">
+                        <label for="titulo">Disabled</label>
                     </div>
                     <div class="card-action">
                         <a class="waves-effect waves-light btn grey" href="galeria.php">Cancelar</a>
