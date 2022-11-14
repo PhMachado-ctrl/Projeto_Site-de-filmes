@@ -1,24 +1,10 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-     <!-- Compiled and minified CSS -->
-     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
-     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 
-    <!-- Compiled and minified JavaScript -->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
-        
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Crorocine</title>
-</head>
 <body>
 <nav class="nav-extended purple lighten-3">
     <div class="nav-wrapper">
       <ul id="nav-mobile" class="right">
         <li><a href="galeria.php">Galeria</a></li>
-        <li><a href="badges.html">Cadastrar</a></li>
+        <li><a href="cadastrar.php">Cadastrar</a></li>
       </ul>
     </div>
     <div class="nav-header center">
@@ -44,7 +30,7 @@
         </div>
         <div class="card-content">
           <p class="valign-wrapper">
-            <i class="material-icons amber-text">star</i>  8,7
+            <i class="material-icons amber-text">star</i>  8,3
           </p>
           <span class="card-title">Vingadores</span>
           
@@ -69,6 +55,42 @@
         </div>
       </div>
     </div>
+
+    <div class="col s3">
+      <div class="card hoverable">
+        <div class="card-image">
+          <img src="https://www.themoviedb.org/t/p/original/9z256FFPDsL7kSVJ9oyLELaN1ph.jpg">
+          <a class="btn-floating halfway-fab waves-effect waves-light red"><i class="material-icons">favorite_border</i></a>
+        </div>
+        <div class="card-content">
+          <p class="valign-wrapper">
+            <i class="material-icons amber-text">star</i>  6,8
+          </p>
+          <span class="card-title">Adão Negro </span>
+          
+          <p>Quase 5.000 anos depois de ter sido concedido com os poderes onipotentes dos deuses egípcios - e de ter sido preso, - Adão Negro se ergue de seu túmulo, pronto para trazer sua justiça ao mundo moderno.</p>
+        </div>
+      </div>
+    </div>
+
+    <div class="col s3">
+      <div class="card hoverable">
+        <div class="card-image">
+          <img src="https://www.themoviedb.org/t/p/original/tH64gzAHDFg7EFcgfkkZyHdGM5P.jpg">
+          <a class="btn-floating halfway-fab waves-effect waves-light red"><i class="material-icons">favorite_border</i></a>
+        </div>
+        <div class="card-content">
+          <p class="valign-wrapper">
+            <i class="material-icons amber-text">star</i>  9,0
+          </p>
+          <span class="card-title">Mad Max: Estrada da Fúria </span>
+          
+          <p>Em um mundo apocalíptico, Max Rockatansky acredita que a melhor forma de sobreviver é não depender de ninguém. Porém, após ser capturado pelo tirano Immortan Joe e seus rebeldes, Max se vê no meio de uma guerra mortal, iniciada pela imperatriz Furiosa que tenta salvar um grupo de garotas. Também tentando fugir, Max aceita ajudar Furiosa. Dessa vez, o tirano Joe está ainda mais implacável pois teve algo insubstituível roubado.</p>
+        </div>
+      </div>
+    </div>
+
+
   </div>
 
   
