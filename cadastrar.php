@@ -70,8 +70,8 @@
                     <!-- Input capa -->
                     <form action="#">
                         <div class="file-field input-field">
-                            <div class="btn">
-                                <span>Capa</span>
+                            <div class="btn purple lighten-2 black-text">
+                                <span>POSTER</span>
                                 <input type="file">
                             </div>
                             <div class="file-path-wrapper">
