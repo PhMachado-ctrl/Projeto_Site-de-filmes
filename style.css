@@ -4,4 +4,6 @@ body{
 
 .nav-extended{
     background-image: url("imagens/capa.jpg");
+    background-size: cover;
+    background-blend-mode: soft-light;
 }
