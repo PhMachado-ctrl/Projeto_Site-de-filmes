@@ -57,7 +57,7 @@
 
   <div class="row">
     <!--Para cada filme chama um filme-->
-    <?php foreach($filmes as $filme) { ?>
+    <?php foreach($filmes as $filme) : ?>
       <div class="col s3">
         <div class="card hoverable">
           <div class="card-image">
@@ -74,7 +74,7 @@
           </div>
         </div>
       </div>
-    <?php } ?>
+    <?php endforeach ?>
 
 </body>
 </html>
