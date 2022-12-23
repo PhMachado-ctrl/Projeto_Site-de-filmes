@@ -56,7 +56,8 @@
 
 
   <div class="row">
-
+    <!--enquanto i for menor que a quantidade de filmes irar lupar-->
+    <?php for ($i=0; $i<count($filmes); i++) {} ?>
     <div class="col s3">
       <div class="card hoverable">
         <div class="card-image">
@@ -72,7 +73,7 @@
           <p><?= $filme1["sinopse"]?></p>
         </div>
       </div>
-      
+
     </div>
 
     <div class="col s3">
