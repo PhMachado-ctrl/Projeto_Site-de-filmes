@@ -1,4 +1,9 @@
 <?php include "cabecalho.php" ?>
+
+<?php
+  $filme1 = [];
+?>
+
 <body>
 <nav class="nav-extended purple lighten-3">
     <div class="nav-wrapper">
